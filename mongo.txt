@@ -1,0 +1,2 @@
+PW=ly9Se1G2LoktUWxK
+DB_WITH_MONGOSH=mongosh "mongodb+srv://cluster0.7q2n2.mongodb.net/" --apiVersion 1 --username tanvirashraf
